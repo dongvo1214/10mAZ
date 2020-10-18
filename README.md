@@ -1,2 +1,2 @@
 # 10mAZ
-a website a marketing online service
+a website for marketing online service
